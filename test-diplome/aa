@@ -1,0 +1,4 @@
+        strokeWeight(5)
+    stroke(10);
+    fill(1000);
+  
